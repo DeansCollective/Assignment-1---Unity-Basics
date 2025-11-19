@@ -1,4 +1,4 @@
-# Assignment-1---Unity-Basics
+# Assignment-1   Unity-Basics
 
 # CSC 461/592 – Assignment 1 Unity Basics
 
